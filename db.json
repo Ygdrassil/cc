@@ -12,30 +12,32 @@
 		}
 	],
 	"units": [
-		"parentUnit": "1 HQ & Sigs",
-		"subUnit": "",
-		"equipment": [
-			{
-				"type": "INFANTRY WEAPON",
-				"name": "C6 GPMG 7.62mm"
-				"barrackTotal": 4,
-				"totalLosses": 0,
-				"totalGain": 0
-			},
-			{
-				"type": "IFV",
-				"name": "LAV 6"
-				"barrackTotal": 5,
-				"totalLosses": 0,
-				"totalGain": 0
-			},
-			{
-				"type": "RECCE",
-				"name": "TAPV"
-				"barrackTotal": 1,
-				"totalLosses": 0,
-				"totalGain": 0
-			}
-		]
+		{
+			"parentUnit": "1 HQ & Sigs",
+			"subUnit": "",
+			"equipment": [
+				{
+					"type": "INFANTRY WEAPON",
+					"name": "C6 GPMG 7.62mm"
+					"barrackTotal": 4,
+					"totalLosses": 0,
+					"totalGain": 0
+				},
+				{
+					"type": "IFV",
+					"name": "LAV 6"
+					"barrackTotal": 5,
+					"totalLosses": 0,
+					"totalGain": 0
+				},
+				{
+					"type": "RECCE",
+					"name": "TAPV"
+					"barrackTotal": 1,
+					"totalLosses": 0,
+					"totalGain": 0
+				}
+			]		
+		}
 	]
 }
