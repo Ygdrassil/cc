@@ -37,7 +37,8 @@
 					"totalLosses": 0,
 					"totalGain": 0
 				}
-			]		
+			],
+			"combatPower": 100
 		}
 	]
 }
