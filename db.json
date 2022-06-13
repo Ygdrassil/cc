@@ -2,13 +2,43 @@
 	"users": [
 		{
 			"id": 1,
-			"name": "Ian Lambert"
+			"name": "Ian Lambert",
 			"username": "i.lambert"
 		},
 		{
 			"id": 2,
 			"name": "Josh Proulx",
 			"username": "j.proulx"
+		}
+	],
+	"units": [
+		{
+			"parentUnit": "1 HQ & Sigs",
+			"subUnit": "",
+			"combatPower": 100,
+			"equipment": [
+				{
+					"type": "INFANTRY WEAPON",
+					"name": "C6 GPMG 7.62mm",
+					"barrackTotal": 4,
+					"totalLosses": 0,
+					"totalGain": 0
+				},
+				{
+					"type": "IFV",
+					"name": "LAV 6",
+					"barrackTotal": 5,
+					"totalLosses": 0,
+					"totalGain": 0
+				},
+				{
+					"type": "RECCE",
+					"name": "TAPV",
+					"barrackTotal": 1,
+					"totalLosses": 0,
+					"totalGain": 0
+				}
+			]
 		}
 	]
 }
